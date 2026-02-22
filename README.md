@@ -139,4 +139,5 @@ Frontend (Planned)
 
 Flutter / React Native
 
-Dashboard with charts and calendar tracking
+Dashboard with charts and calendar tracking.
+
